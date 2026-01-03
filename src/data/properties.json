@@ -1,0 +1,163 @@
+[
+  {
+    "id": 1,
+    "title": "Luxury Villa in Colombo 07",
+    "type": "House",
+    "price": 45000000,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "area": 3500,
+    "location": "Cinnamon Gardens, Colombo 07",
+    "postcode": "COL07",
+    "description": "Beautiful modern villa with garden, located in the prestigious Cinnamon Gardens area. Features include a private pool, modern kitchen, and spacious living areas.",
+    "longDescription": "This stunning luxury villa in Colombo 07 represents the pinnacle of modern Sri Lankan architecture. Situated in the prestigious Cinnamon Gardens neighborhood, this property offers unparalleled elegance and sophistication. The villa spans 3,500 square feet of meticulously designed living space, featuring four spacious bedrooms and three luxurious bathrooms. The master suite includes a private balcony overlooking the beautifully landscaped garden and a walk-in closet. The open-plan living and dining areas are bathed in natural light, with floor-to-ceiling windows that seamlessly connect the interior to the outdoor spaces. The state-of-the-art kitchen is equipped with premium appliances, granite countertops, and custom cabinetry. The property boasts a private swimming pool surrounded by tropical gardens, perfect for entertaining or relaxation. Additional features include a dedicated home office, a modern security system, and covered parking for two vehicles. Located just minutes from the city center, international schools, and upscale shopping, this villa offers the perfect blend of luxury living and convenience.",
+    "images": [
+      "https://images.unsplash.com/photo-1613977257363-707ba9348227?w=1200",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=1200",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1200",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1200",
+      "https://images.unsplash.com/photo-1600607687644-c7171b42498b?w=1200",
+      "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=1200"
+    ],
+    "dateAdded": "2025-01-02",
+    "features": ["Swimming Pool", "Garden", "Parking", "Security", "Modern Kitchen"]
+  },
+  {
+    "id": 2,
+    "title": "Modern Apartment in Kandy",
+    "type": "Flat",
+    "price": 12500000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "area": 1800,
+    "location": "Peradeniya Road, Kandy",
+    "postcode": "KAN01",
+    "description": "Spacious apartment with mountain views in the heart of Kandy. Close to schools, hospitals, and shopping centers.",
+    "longDescription": "This contemporary apartment in Kandy offers a perfect blend of modern comfort and scenic beauty. Located on Peradeniya Road, the property provides breathtaking views of the surrounding mountains and the historic city below. The 1,800 square foot unit features three well-appointed bedrooms, each with built-in wardrobes and large windows that frame the stunning landscape. The master bedroom includes an ensuite bathroom with modern fixtures and a private balcony. The open-plan living area is designed for both relaxation and entertainment, with a modern kitchen that includes stainless steel appliances and ample storage. The apartment complex features 24/7 security, elevator access, and covered parking. Residents enjoy proximity to prestigious schools, leading hospitals, and vibrant shopping centers. The building is surrounded by well-maintained gardens and offers a peaceful retreat from the city while remaining conveniently connected to all essential amenities. This is an ideal home for families or professionals seeking quality living in Kandy's most desirable location.",
+    "images": [
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=1200",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=1200",
+      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?w=1200",
+      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=1200",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1200",
+      "https://images.unsplash.com/photo-1600607687644-c7171b42498b?w=1200"
+    ],
+    "dateAdded": "2024-12-15",
+    "features": ["Mountain View", "Balcony", "Parking", "Elevator", "24/7 Security"]
+  },
+  {
+    "id": 3,
+    "title": "Beachfront House in Galle",
+    "type": "House",
+    "price": 35000000,
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "area": 4200,
+    "location": "Unawatuna, Galle",
+    "postcode": "GAL01",
+    "description": "Stunning beachfront property with direct access to the beach. Perfect for vacation rental or permanent residence.",
+    "longDescription": "Experience the ultimate beachfront living in this magnificent property located in the picturesque Unawatuna area of Galle. This stunning 4,200 square foot beachfront house offers direct access to one of Sri Lanka's most beautiful beaches. The property features five spacious bedrooms, each designed to maximize the breathtaking ocean views. The master suite is a true sanctuary, complete with a private terrace, walk-in closet, and a luxurious ensuite bathroom with a freestanding bathtub overlooking the sea. The open-plan design seamlessly connects the living, dining, and kitchen areas, all opening onto expansive terraces that face the ocean. The modern kitchen is fully equipped with high-end appliances and a large island perfect for entertaining. The property includes a private swimming pool, beautifully landscaped gardens, and multiple outdoor entertainment areas. The beachfront location provides direct access to the sand, making it perfect for morning walks, sunset viewing, or water sports. This property is ideal as a luxury vacation rental or a permanent residence for those seeking the ultimate coastal lifestyle. The historic Galle Fort is just a short drive away, offering restaurants, cafes, and cultural attractions.",
+    "images": [
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1200",
+      "https://images.unsplash.com/photo-1600607687644-c7171b42498b?w=1200",
+      "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=1200",
+      "https://images.unsplash.com/photo-1613977257363-707ba9348227?w=1200",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=1200",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1200"
+    ],
+    "dateAdded": "2025-01-03",
+    "features": ["Beachfront", "Swimming Pool", "Garden", "Parking", "Sea View"]
+  },
+  {
+    "id": 5,
+    "title": "Penthouse in Colombo 05",
+    "type": "Flat",
+    "price": 28000000,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "area": 3200,
+    "location": "Bambalapitiya, Colombo 05",
+    "postcode": "COL05",
+    "description": "Luxurious penthouse with panoramic city and ocean views. Modern amenities and premium finishes throughout.",
+    "longDescription": "Perched high above Colombo, this exceptional penthouse offers the ultimate urban living experience with breathtaking panoramic views of both the city skyline and the Indian Ocean. Spanning 3,200 square feet across the top floor, this luxurious residence features four spacious bedrooms and three elegant bathrooms. The master suite is a true retreat, featuring floor-to-ceiling windows, a private terrace, and a spa-like ensuite bathroom with premium fixtures. The open-plan living area is designed for grand entertaining, with high ceilings, designer lighting, and seamless access to a large wrap-around terrace that offers 360-degree views. The gourmet kitchen is equipped with top-of-the-line appliances, custom cabinetry, and a large island perfect for culinary enthusiasts. Premium finishes throughout include imported marble, hardwood flooring, and designer fixtures. The building offers world-class amenities including a rooftop infinity pool, state-of-the-art fitness center, concierge services, and secure parking. Located in the prestigious Bambalapitiya area, residents enjoy proximity to fine dining, luxury shopping, international schools, and the beach. This penthouse represents the pinnacle of luxury living in Colombo.",
+    "images": [
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1200",
+      "https://images.unsplash.com/photo-1600607687644-c7171b42498b?w=1200",
+      "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=1200",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=1200",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=1200",
+      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?w=1200"
+    ],
+    "dateAdded": "2025-11-31",
+    "features": ["City View", "Ocean View", "Balcony", "Parking", "Elevator", "Modern Kitchen"]
+  },
+  {
+    "id": 7,
+    "title": "Studio Apartment in Colombo 03",
+    "type": "Flat",
+    "price": 6500000,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "area": 650,
+    "location": "Kollupitiya, Colombo 03",
+    "postcode": "COL03",
+    "description": "Compact and modern studio apartment perfect for young professionals. Close to business district and restaurants.",
+    "longDescription": "This stylish studio apartment in Kollupitiya offers an ideal solution for young professionals or students seeking modern, affordable living in the heart of Colombo. The 650 square foot unit has been intelligently designed to maximize space and functionality. The open-plan layout features a comfortable sleeping area, a well-equipped kitchenette with modern appliances, and a compact dining/work space. The bathroom is modern and well-appointed with quality fixtures. Large windows provide plenty of natural light and offer views of the surrounding neighborhood. The building features 24/7 security, elevator access, and a small rooftop terrace perfect for relaxation. The location is unbeatable, with walking distance to the business district, numerous restaurants and cafes, shopping centers, and public transportation. This apartment is perfect for those who value location and convenience, offering an affordable entry point into Colombo's vibrant urban lifestyle. The area is well-served by supermarkets, banks, and other essential services, making daily life convenient and hassle-free.",
+    "images": [
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=1200",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=1200",
+      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?w=1200",
+      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=1200",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1200",
+      "https://images.unsplash.com/photo-1600607687644-c7171b42498b?w=1200"
+    ],
+    "dateAdded": "2025-01-04",
+    "features": ["Modern Design", "Parking", "Security", "Near Business District"]
+  },
+  {
+    "id": 8,
+    "title": "Family Home in Mount Lavinia",
+    "type": "House",
+    "price": 32000000,
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "area": 4000,
+    "location": "Mount Lavinia Beach",
+    "postcode": "MTL01",
+    "description": "Spacious family home with beach access. Large garden and modern amenities make this perfect for families.",
+    "longDescription": "This exceptional family home in Mount Lavinia offers the perfect combination of space, comfort, and beachside living. The 4,000 square foot property features five generously sized bedrooms and four bathrooms, providing ample space for a large family or those who love to entertain. The ground floor includes a grand entrance hall, a spacious living room with high ceilings, a formal dining room, and a modern open-plan kitchen that opens to a covered outdoor dining area. The upper level houses all bedrooms, including a master suite with a private balcony offering partial sea views. The property features a large, beautifully landscaped garden with mature trees, a children's play area, and a private swimming pool. The location offers easy access to Mount Lavinia Beach, one of Colombo's most popular beaches, perfect for family outings and water activities. The area is well-established with excellent schools, hospitals, and shopping facilities nearby. The property has been well-maintained and features modern amenities including a backup power system, security system, and covered parking for multiple vehicles. This is an ideal home for families seeking a peaceful, spacious environment while remaining close to the city and beach.",
+    "images": [
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1200",
+      "https://images.unsplash.com/photo-1600607687644-c7171b42498b?w=1200",
+      "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=1200",
+      "https://images.unsplash.com/photo-1613977257363-707ba9348227?w=1200",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=1200",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1200"
+    ],
+    "dateAdded": "2025-01-01",
+    "features": ["Beach Access", "Large Garden", "Swimming Pool", "Parking", "Security"]
+  },
+  {
+    "id": 10,
+    "title": "Luxury Condo in Colombo 04",
+    "type": "Flat",
+    "price": 19500000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "area": 2100,
+    "location": "Wellawatta, Colombo 04",
+    "postcode": "COL04",
+    "description": "Premium condominium with modern facilities including gym, pool, and 24/7 security.",
+    "longDescription": "This premium condominium in Wellawatta offers luxury living with world-class amenities in one of Colombo's most vibrant neighborhoods. The 2,100 square foot unit features three spacious bedrooms and two modern bathrooms, all designed with contemporary elegance. The master bedroom includes a walk-in closet and an ensuite bathroom with premium fixtures. The open-plan living area is designed for modern living, with a sleek kitchen featuring high-end appliances, granite countertops, and a breakfast bar. Large windows throughout provide abundant natural light and offer views of the surrounding area. The building features exceptional amenities including a state-of-the-art fitness center, a stunning rooftop infinity pool, a residents' lounge, and 24/7 concierge services. Secure parking and modern security systems provide peace of mind. The location in Wellawatta offers the best of Colombo living, with easy access to the beach, numerous restaurants and cafes, shopping centers, and entertainment venues. The area is well-served by public transportation and is close to international schools and hospitals. This condominium represents an excellent investment opportunity and offers a luxurious lifestyle in the heart of Colombo.",
+    "images": [
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1200",
+      "https://images.unsplash.com/photo-1600607687644-c7171b42498b?w=1200",
+      "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=1200",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=1200",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=1200",
+      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?w=1200"
+    ],
+    "dateAdded": "2025-10-11",
+    "features": ["Swimming Pool", "Gym", "Parking", "24/7 Security", "Elevator", "Sea View"]
+  }
+]
